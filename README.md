@@ -1,2 +1,1 @@
-# codely
-codely outstandingly unique repo community
+outstandingly unique repo community
